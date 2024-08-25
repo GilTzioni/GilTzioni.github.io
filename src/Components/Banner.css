@@ -1,0 +1,129 @@
+.banner {
+    margin-top: 0;
+    padding: 100px 0 100px 100px;
+    background-image: url('../assets/img/bg-img.png');
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    /* position: absolute; */
+    top: 0;
+    /* width: 100%;
+    height: 100vh; */
+    height: 100%;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+  }
+  .bannerd{
+    width: 100%;
+    /* height: 100vh; */
+  }
+  video{
+    /* width: 100%; */
+    /* object-fit: fill; */
+
+    /* height: 100%; */
+    /* left: 0; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: start; */
+    /* align-items: start; */
+  }
+  .overlay{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .7);
+    z-index: 0;
+  }
+  .banner .container{
+    z-index: 1;
+    position: relative;
+  }
+  .banner .tagline {
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    padding: 8px 10px;
+    background: linear-gradient(90.21deg, rgba(14, 117, 41, 0.82) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    margin-bottom: 26px;
+    display: inline-block;
+
+  }
+  .banner h1 {
+    font-size: 65px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    line-height: 1;
+    margin-bottom: 20px;
+    display: block;
+
+  }
+  .banner p {
+    color: #B8B8B8;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    width: 96%;
+  }
+  .banner button {
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 60px;
+    letter-spacing: 0.8px;
+    display: flex;
+    align-items: center;
+  }
+  .banner button svg {
+    font-size: 25px;
+    margin-left: 10px;
+    transition: 0.3s ease-in-out;
+    line-height: 1;
+  }
+  .banner button:hover svg {
+    margin-left: 25px;
+  }
+  .banner img {
+    /* animation: updown 3s linear infinite; */
+    /* position: absolute;
+    top: 0;
+    padding-right: 20px;
+    padding-top: ;
+    width: 30%; */
+
+  }
+  
+  @keyframes updown {
+    /* 0% {
+        transform: translateY(-20px);
+    }
+    50% {
+        transform: translateY(20px);
+    }
+    100% {
+        transform: translateY(-20px);
+    } */
+}
+.txt-rotate > .wrap {
+  border-right: 0.08em solid #666;
+
+}
+  /* @keyframes updown {
+      0% {
+          transform: translateY(-20px);
+      }
+      50% {
+          transform: translateY(20px);
+      }
+      100% {
+          transform: translateY(-20px);
+      }
+  } */
+
+  

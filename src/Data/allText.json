@@ -1,0 +1,107 @@
+{
+    "navbar": {
+      "button1": "Home",
+      "button2": "services",
+      "button3": "Projects",
+      "button4": "Contact"
+
+    },
+    "banner": {
+      "title": "Welcome to Kanar FX",
+      "skill1":"Special Effects MUA",
+      "skill2":"Face Painting",
+      "skill3":"Sculpting",
+      "skill4":"Hair And Wigs",
+
+      "about": "Kanar FX is a professional makeup studio specializing in SFX and cinema makeup creations. Our team of experienced makeup artists is dedicated to creating stunning and realistic makeup effects for film, TV, and theater productions. We pride ourselves on our attention to detail and our ability to bring our clients' visions to life. From prosthetics to body painting, we offer a wide range of services to meet the needs of any production. Contact us today to learn more about how we can help bring your project to life.",
+      "CreatePortfolio": "Create Your portfolio >"
+    },
+    "projects": {
+      "tab1": "Films",
+      "tab2": "TV & Advertising",
+      "tab3": "Workshops",
+      "button": "Calculate Your Impact Now"
+    },
+    "page2": {
+      "headerLeft": "New investor",
+      "textLeft": "Take the first step towards a sustainable and prosperous future. Start investing with Kaima and together, let's create a greener world while building your financial success.",
+      "buttonLeft": "Create new portfolio",
+      "headerRight": "Build a virtual Portfolio",
+      "textRight": "Take the first step towards a sustainable and prosperous future. Start investing with [Company Name] today and together, let's create a greener world while building your financial success.",
+      "buttonRight": "Create a virtual portfolio"
+    },
+    "page3": {
+      "Header": "Portfolio Template",
+      "subHeader": "Choose a portfolio template that resonates with you the most",
+      "title1": "Economic",
+      "subTitle1": "Development",
+      "title2": "Environmental",
+      "subTitle2": "Protection",
+      "title3": "Social",
+      "subTitle3": "Development",
+      "titleInformation": "Give us a brief overview about yourself"
+    },
+    "page4": {
+      "header": "Where Are You Managing Your Savings?",
+      "subHeader": "No Login or account information required",
+      "title1": "Country",
+      "title2": "Your Existing Wealth Manager",
+      "title3": "Assets",
+      "title4": "Which Investment Channel?",
+      "title5": "How much have you roughly saved so far?",
+      "optional": " (optional)",
+      "inputText": "Hey KAIMA! I'm Stephanie, a 35-year-old from Berlin.\n I'm a vegetarian who loves yoga and thrifting.\n I have a daughter in elementary school, and I enjoy hiking and swimming in my free time.",
+      "value1": "Sports Fan",
+      "value2": "Pet Person",
+      "value3": "Traveler",
+      "value4": "Childfree",
+      "value5": "Foodie",
+      "value6": "Art Freak",
+      "value7": "Cannabis Supporter",
+      "value8": "Geek",
+      "value9": "Pet Person",
+      "value10": "Animal",
+      "value11": "Digital Nomad",
+      "value12": "Tech Savvy",
+      "value13": "Crypto Fan"
+    },
+    "page5": {
+      "header": "sit tight, we’re almost there!",
+      "subHeader": "Preparing your portfolio's impact analysis!"
+    },
+    "page6": {
+      "header": "Your Portfolio Analysis [Name] is ready!",
+      "title": "Portfolio Impact Highlights",
+      "square1": "Estimated Amount",
+      "square2": "Return in past 12 months",
+      "square3": "Low Parity Investments",
+      "square4": "Management Fee",
+      "title2": "Your Portfolio Measurable Impact",
+      "Criteria1": "Saved",
+      "Criteria2": "Generated",
+      "PCBTitle": "Portfolio Carbon Balance",  
+      "PCBottomTitle": "Your Portfolio is almost carbon-neutral!",
+      "PCBText1": "Carbon Footprint",
+      "PCBText2": "Carbon Offsetting",
+      "PCBText3": "Balance"
+    },
+    "DonutCard":{
+      "Stocks":"Stocks",
+      "GreenConstruction":"Green Construction",
+      "SocialBonds":"Social Bonds",
+      "GreenDebt":"Green Bonds",
+      "ETF":"ETF",
+      "SLB":"Social Linked Bonds",
+      "Projects":"Projects",
+      "lableStocks":"This section represents your ownership in a company that is aligned with your values.",
+      "lableGreenConstruction":"Green construction refers to the practice of investing in designing, constructing, and operating buildings in an environmentally and resource-efficient manner.",
+      "lableSocialBonds":"Social bonds are fixed-income financial instruments that are specifically issued to raise funds for projects with positive social outcomes, such as healthcare, education, and affordable housing.",
+      "lableGreenDebt":"Green bonds are fixed-income financial instruments that are specifically issued to raise funds for environmentally sustainable projects.",
+      "lableETF":"Exchange Traded Funds are a type of investment fund that are traded on stock exchanges like individual stocks, and generally aim to track the performance of a particular market index, sector, or asset class.",
+      "lableSLB":"Social linked bonds are fixed-income financial instruments that are tied to specific social outcomes and have a built-in financial incentive for the issuer to achieve those outcomes, such as providing access to affordable housing or reducing carbon emissions.",
+      "lableProjects":"From desalination projects to hospitals, this category shows your ownership in meaningful projects"
+  
+  
+    }
+  }
+  
