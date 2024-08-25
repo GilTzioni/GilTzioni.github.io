@@ -64,7 +64,6 @@ function MydModalWithGrid(props) {
              <GalleryImg/>
              <GalleryImg/>
           
-         
         </Row>
         </Modal>
   );
